@@ -60,6 +60,8 @@ I love solving problems, collaborating with teams to move from manual processes 
 
 •	 **ArgoCD**: GitOps-based continuous delivery tool for Kubernetes that manages application deployment using Git repositories as the source of truth.
 
+•  **Kustomize**: A Kubernetes-native tool used for customizing YAML manifests without copying or templating them.
+
 🔄 **CI/CD & Automation**
 
 •	 **Jenkins**: Open-source automation server used to build, test, and deploy software through continuous integration and delivery pipelines.
